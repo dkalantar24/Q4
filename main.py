@@ -1,11 +1,21 @@
-print("Welcome to the Notes App!")
+print('''
+                                                                                                                                                                         ,---. 
+,--.   ,--.       ,--.                                    ,--.               ,--.  ,--.                ,--.  ,--.         ,--.                      ,---.                |   | 
+|  |   |  | ,---. |  | ,---. ,---. ,--,--,--. ,---.     ,-'  '-. ,---.     ,-'  '-.|  ,---.  ,---.     |  ,'.|  | ,---. ,-'  '-. ,---.  ,---.      /  O  \\ ,---.  ,---. |  .' 
+|  |.'.|  || .-. :|  || .--'| .-. ||        || .-. :    '-.  .-'| .-. |    '-.  .-'|  .-.  || .-. :    |  |' '  || .-. |'-.  .-'| .-. :(  .-'     |  .-.  || .-. || .-. ||  |  
+|   ,'.   |\\  --.|  |\\`--.' '-' '|  |  |  |\\  --.      |  |  ' '-' '      |  |  |  | |  |\\  --.    |  | `   |' '-' '  |  |  \\  --..-'  `)    |  | |  || '-' '| '-' '`--'  
+'--'   '--' `----'`--' `---' `---' `--`--`--' `----'      `--'   `---'       `--'  `--' `--' `----'    `--'  `--' `---'   `--'   `----'`----'     `--' `--'|  |-' |  |-' .--.  
+                                                                                                                                                           `--'   `--'   '--'  
+''')
 
-def notes():
-  dictionary = {'date': }
-    for item in dictionary:
-      print(item)
+dictionary = {'date': }
+  for item in dictionary:
+    print(item)
+user input = ("Would you like to view a note or create a new one?")
+  if user_input = "view a note"
+def create_note():
   while True:
-    date = input("What is today's date?")
-    notes = input("Enter your notes:")
-    event[date] = date
+    title = input("Enter the title for todays notes:")
+    note = input("Enter your notes:")
+    dictionary[title] = note
   
