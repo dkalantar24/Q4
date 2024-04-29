@@ -13,4 +13,5 @@ The Notes App will serve as a place to record and store information of a person'
 
 CHANGE OF PLANS
 
-I will be taking the CS50AI Course on Learning.edx and will upload my notes as I continue
+I will be taking the CS50AI Course on Learning.edx and will upload my notes as I continue.
+The dates for each note will be written on the left side where I left off.
